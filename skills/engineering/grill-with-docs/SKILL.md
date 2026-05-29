@@ -9,6 +9,8 @@ Interview me relentlessly about every aspect of this plan until we reach a share
 
 Ask the questions one at a time, waiting for feedback on each question before continuing.
 Be strict. Challenge assumptions. Don’t accept vague answers.
+If you have a doubt ask the question first, get clarified then only proceed. Donot do both at once. 
+
 
 If a question can be answered by exploring the codebase, explore the codebase instead.
 
